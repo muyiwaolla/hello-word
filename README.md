@@ -1,2 +1,2 @@
 # hello-word
-First Repo
+Hello Guys, I'm Muyiwa Ola and I'm a Front-end Developer
